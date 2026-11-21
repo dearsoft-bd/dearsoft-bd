@@ -1,0 +1,52 @@
+<p align="center">
+  <img src="https://dearsoft.com.bd/storage/Dear-soft-logo.png" width="220" alt="DearSoft logo">
+</p>
+
+<h1 align="center">DearSoft</h1>
+
+<p align="center">
+  Python-first SaaS, AI agents and e-commerce tools from Dhaka, Bangladesh.
+</p>
+
+## About DearSoft
+
+DearSoft is a founder-led software studio building practical products for businesses.
+Our work combines Python engineering, retrieval-augmented AI, secure SaaS foundations
+and e-commerce integrations.
+
+## Featured projects
+
+- [DS-Pythone portfolio](https://github.com/dearsoft-bd/nvidia-rag-portfolio) —
+  local-first RAG developer agent with cited answers, evaluation and a local web UI.
+- [DS-Pythone showcase](https://github.com/dearsoft-bd/ds-pythone-showcase) —
+  Python e-commerce CMS for OpenCart/Journal 3 workflows.
+- [DearSoft SaaS](https://github.com/dearsoft-bd/DearSoft-SaaS) —
+  hosted DS-Pythone, DS-Panel and ERP platform.
+- [DS-Panel](https://github.com/dearsoft-bd/ds-panel) —
+  open-source Python hosting control panel.
+- [DearSoft OpenCart AI](https://github.com/dearsoft-bd/dearsoft-opencart-ai) —
+  product writer, store assistant, background removal and MCP tools.
+
+## Engineering focus
+
+- Python SaaS and developer tools
+- Retrieval-augmented generation and source citations
+- NVIDIA NIM and OpenAI-compatible API integration
+- E-commerce, ERP and hosting automation
+- Automated tests, reproducible evaluation and security-conscious defaults
+
+## Verified DS-Pythone baseline
+
+- **11/11 automated tests passing**
+- **Hit rate@3:** 1.00
+- **MRR:** 1.00
+- **Top-result term accuracy:** 1.00
+
+These metrics describe the project's versioned five-case evaluation set, not
+production-scale benchmark performance.
+
+## Connect
+
+- Website: [dearsoft.com.bd](https://dearsoft.com.bd)
+- Founder: [Khandaker Readul Islam](https://www.linkedin.com/in/dearsoft-khandaker-readul-islam-7a306655/)
+- Business: [founder@dearsoft.com.bd](mailto:founder@dearsoft.com.bd)
