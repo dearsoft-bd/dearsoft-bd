@@ -24,9 +24,9 @@ cited answers, SaaS foundations, e-commerce and developer tooling.
 - **DS-Pythone AI Agent** — local-first retrieval-augmented developer agent with
   source citations, NVIDIA NIM integration, a local web UI and reproducible
   evaluation. [Explore DS-Pythone](https://github.com/dearsoft-bd/nvidia-rag-portfolio).
-- **DearSoft OpenCart AI** — AI product writer, store chat assistant, background
-  removal and MCP tools for OpenCart 3 and 4.
-  [Explore OpenCart AI](https://github.com/dearsoft-bd/dearsoft-opencart-ai).
+- **DS-Pythone SaaS Stack** — Python foundations for hosted AI tools, e-commerce,
+  ERP, panel management and business automation.
+  [Explore DearSoft SaaS](https://github.com/dearsoft-bd/DearSoft-SaaS).
 
 ## Featured projects
 
@@ -38,8 +38,6 @@ cited answers, SaaS foundations, e-commerce and developer tooling.
   hosted DS-Pythone, DS-Panel and ERP platform.
 - [DS-Panel](https://github.com/dearsoft-bd/ds-panel) —
   open-source Python hosting control panel.
-- [DearSoft OpenCart AI](https://github.com/dearsoft-bd/dearsoft-opencart-ai) —
-  product writer, store assistant, background removal and MCP tools.
 
 ## Engineering focus
 
