@@ -14,6 +14,11 @@ DearSoft is a founder-led software studio building practical products for busine
 Our work combines Python engineering, retrieval-augmented AI, secure SaaS foundations
 and e-commerce integrations.
 
+## DS-Pythone by DearSoft
+
+DS-Pythone is DearSoft's Python-first AI developer platform for local retrieval,
+cited answers, SaaS foundations, e-commerce and developer tooling.
+
 ## Featured projects
 
 - [DS-Pythone portfolio](https://github.com/dearsoft-bd/nvidia-rag-portfolio) —
