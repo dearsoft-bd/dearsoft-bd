@@ -19,6 +19,15 @@ and e-commerce integrations.
 DS-Pythone is DearSoft's Python-first AI developer platform for local retrieval,
 cited answers, SaaS foundations, e-commerce and developer tooling.
 
+## AI highlights
+
+- **DS-Pythone AI Agent** — local-first retrieval-augmented developer agent with
+  source citations, NVIDIA NIM integration, a local web UI and reproducible
+  evaluation. [Explore DS-Pythone](https://github.com/dearsoft-bd/nvidia-rag-portfolio).
+- **DearSoft OpenCart AI** — AI product writer, store chat assistant, background
+  removal and MCP tools for OpenCart 3 and 4.
+  [Explore OpenCart AI](https://github.com/dearsoft-bd/dearsoft-opencart-ai).
+
 ## Featured projects
 
 - [DS-Pythone portfolio](https://github.com/dearsoft-bd/nvidia-rag-portfolio) —
