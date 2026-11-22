@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dearsoft.com.bd/storage/Dear-soft-logo.png" width="220" alt="DearSoft logo">
+  <img src="./assets/dearsoft-mark.webp" width="150" alt="DearSoft logo">
 </p>
 
 <h1 align="center">DearSoft</h1>
@@ -11,13 +11,14 @@
 ## About DearSoft
 
 DearSoft is a founder-led software studio building practical products for businesses.
-Our work combines Python engineering, retrieval-augmented AI, secure SaaS foundations
-and e-commerce integrations.
+Our work combines Python engineering, secure SaaS foundations, connected ERP
+operations, AI agents and e-commerce integrations.
 
 ## DS-Pythone by DearSoft
 
-DS-Pythone is DearSoft's Python-first AI developer platform for local retrieval,
-cited answers, SaaS foundations, e-commerce and developer tooling.
+DS-Pythone V4.11.26 is DearSoft's Python-first commerce and developer platform.
+It connects storefronts, catalog management, owner-controlled hosting, DearSoft ERP
+and AI workflows into one operational system.
 
 ## AI highlights
 
@@ -25,7 +26,7 @@ cited answers, SaaS foundations, e-commerce and developer tooling.
   source citations, NVIDIA NIM integration, a local web UI and reproducible
   evaluation. [Explore DS-Pythone](https://github.com/dearsoft-bd/nvidia-rag-portfolio).
 - **DS-Pythone SaaS Stack** — Python foundations for hosted AI tools, e-commerce,
-  ERP, panel management and business automation.
+  connected ERP operations, panel management and business automation.
   [Explore DearSoft SaaS](https://github.com/dearsoft-bd/DearSoft-SaaS).
 
 ## Featured projects
